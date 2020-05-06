@@ -1,0 +1,26 @@
+
+Flutter & Material Design
+
+Introduction
+
+How To Get The Most Out Of The Course
+
+Understanding Flutter Versions
+
+How Flutter & Dart Code Gets Compiled To Native Apps
+
+Windows Development Environment
+
+macOS Development Environment
+
+Understanding the Flutter Architecture
+
+What is Flutter?
+
+Flutter Alternatives
+
+Course Outline
+
+Flutter macOS Setup
+ 
+Flutter Windows Setup
